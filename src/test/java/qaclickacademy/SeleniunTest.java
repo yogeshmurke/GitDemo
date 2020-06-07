@@ -21,5 +21,11 @@ public class SeleniunTest {
 	{
 		System.out.println("elementsUi");
 	}
+	
+	@Test
+	public void elementsUisd()
+	{
+		System.out.println("elementsUi");
+	}
 
 }
